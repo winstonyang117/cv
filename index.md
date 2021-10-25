@@ -64,7 +64,7 @@ Data Scientist at UPS based in Mahwah, New Jersey.
 **Objective:** Implementing and accelerating Transformer and BERT by using CUDA C/C++<br>
 **Laboratory:** [HPDA (High-Performance Data Analytics) Lab at Stevens Institute of Technology](https://web.stevens.edu/hpda/)<br>
 **Supervisor:** Associate Prof. Hang Liu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EbTnLekAAAAJ)<br>
-**Position::** **Leader** of a 3-person team work
+**Position:** **Leader** of a 3-person team work
   - Most of the work was done on XSEDE cloud server which has a huge amount of GPU resources.
   - Used Shared Memory & Memory Coalesced methods to optimize matrix multiplication and matrix transpose.
   - The time to complete an epoch with shared memory optimization and non-optimization is 1.506s and 1.787s respectively.
@@ -73,7 +73,7 @@ Data Scientist at UPS based in Mahwah, New Jersey.
 **Undergraduate Innovation and Entrepreneurship Training Program** Changchun, China _(April 2016 - April 2017)_<br>
 **Objective:** To design a non-contact palmar vein recognition instrument based on image processing<br>
 **Supervisor:** Associate Prof. Shifeng Wang<br>
-**Position::** **Leader** of a 3-person team work
+**Position:** **Leader** of a 3-person team work
   - Tried the methods of open-close operation, Gaussian filtering, NiBlack local binarization, adaptive thresh- old, dilation and erosion to perfectly show palmar vein image.
   - Used ORB test method to extract the key points of two images that need to be matched.
   - Utilized a mathematical method RANSAC for eliminating mismatched points.
@@ -82,31 +82,42 @@ Data Scientist at UPS based in Mahwah, New Jersey.
 **Study of Vortex Beams Based on LCOS-SLM** Changchun, China _(April 2016 - April 2017)_<br>
 **Objective:** To implement vortex beams based on LCOS-SLM, then propose a new method producing vector vortex beams based on LCOS-SLM.<br>
 **Supervisor:** Prof. Zhiying Liu<br>
-**Position::** **Leader** of a 3-person team work, but **the only one** sticked to the end.
+**Position:** **Leader** of a 3-person team work, but **the only one** sticked to the end.
   - Adopted computer numerical simulation to compute the interference of object beam and reference beam.
   - Got vortex beam and optimized index properties by Combining the algorithm principle of CGH and LCOS-SLM.
   - Got Interferometric hologram.
 <br><br>
 
 ## 📌 ACADEMIC CONTESTS
+**The 2nd National “Intelligent Internet Competition”** **The Second Prize** Chongqing, China _(March 2017 - August 2017)_<br>
+**Objective:** To design an intelligent crib based on non-contact heart rate measurement, guaranteeing the baby is left in a safe unattended environment.<br>
+**Position:** **Leader** of a 3-person team work, but **the only one** sticked to the end.
+  - Developed facial recognition and identification based on OpenCV.
+  - Processed the images of forehead area and crawled the signals of heart rate.
+  - Used STM32 to extract sensor signals, and controlled the relevant appliances by monitoring heart rate, such as adjusting fan speeds (fan is used to reduce the concentration of carbon dioxide).
+<br><br>
 
+**2016 National College Students Optoelectronic Design Competition** Chengdu, China _(March 2016 - July 2016)_<br>
+**Objective:** To design an autonomous airdrop UAV based on monocular vision.
+  - Developed facial recognition and identification based on OpenCV.
+  - Implemented the method of GPU parallel computation to process the images.
+  - Established a embedded system included NVIDIA Jetson TK1, Arduino and APM.
+<br><br>
 
+**graduate Academic English Speech Contest** **The Second Prize** Changchun, China _(Noveber 2015 - January 2016)_<br>
+Made a speech in English, expressing personal opinions on image processing based on OpenCv, the understanding about SLAM system and its application in automatic driving fields.
+<br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+**The 5th OptoElectronic Design Competition** **The First Prize** Changchun, China _(April 2015 - October 2015)_<br>
+  - Designed an optoelectronic intelligent toy car based on HSV color recognition.
+  - Applied Ant colony algorithm to the car, which made it possible to pick up 10 ping-pong balls within 35 seconds on a 4-square-meter ground.
+  - Applied dynamic PID control method
+<br><br>
 
 ## 🎤 Public Speaking
+   
+    
+    
     
 ### Recent Appearances
 
