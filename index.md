@@ -50,9 +50,9 @@ Data Scientist at UPS based in Mahwah, New Jersey.
 
 
 **2021 Master Thesis in Electrical Engineering** Hoboken, New Jersey _(February 2021 - May 2021)_<br>
-**Objective:** Contactless vital signs measurement and analysis via FMCW radar
-**Laboratory:** [The Bio-Electromagnetics Laboratory at Stevens Institute of Technology](https://www.tavassolian-lab.com/people)
-**Advisor:** Associate Prof. Negar Tavassolian [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xTUFHmIAAAAJ)
+**Objective:** Contactless vital signs measurement and analysis via FMCW radar<br>
+**Laboratory:** [The Bio-Electromagnetics Laboratory at Stevens Institute of Technology](https://www.tavassolian-lab.com/people)<br>
+**Advisor:** Associate Prof. Negar Tavassolian [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xTUFHmIAAAAJ)<br>
 **Reader:** Prof. Lei Wu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=BtMLsDIAAAAJ)
   - Application of ultra width frequency radar to detect human vital signs.
   - The wearable sensor shimmer3 GSR + and Apple Watch 3 are used as reference signals.
@@ -61,122 +61,50 @@ Data Scientist at UPS based in Mahwah, New Jersey.
 <br><br>
 
 **2020 ECE Student Honor Summer Research** Hoboken, New Jersey _(May 2020 - July 2020)_<br>
-**Objective:** Implementing and accelerating Transformer and BERT by using CUDA C/C++
-**Laboratory:** [HPDA (High-Performance Data Analytics) Lab at Stevens Institute of Technology](https://web.stevens.edu/hpda/)
-**Supervisor:** Associate Prof. Hang Liu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EbTnLekAAAAJ)
+**Objective:** Implementing and accelerating Transformer and BERT by using CUDA C/C++<br>
+**Laboratory:** [HPDA (High-Performance Data Analytics) Lab at Stevens Institute of Technology](https://web.stevens.edu/hpda/)<br>
+**Supervisor:** Associate Prof. Hang Liu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EbTnLekAAAAJ)<br>
 **Position::** **Leader** of a 3-person team work
   - Most of the work was done on XSEDE cloud server which has a huge amount of GPU resources.
   - Used Shared Memory & Memory Coalesced methods to optimize matrix multiplication and matrix transpose.
   - The time to complete an epoch with shared memory optimization and non-optimization is 1.506s and 1.787s respectively.
 <br><br>
 
-
-
-
-
-
-
-
-
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+**Undergraduate Innovation and Entrepreneurship Training Program** Changchun, China _(April 2016 - April 2017)_<br>
+**Objective:** To design a non-contact palmar vein recognition instrument based on image processing<br>
+**Supervisor:** Associate Prof. Shifeng Wang<br>
+**Position::** **Leader** of a 3-person team work
+  - Tried the methods of open-close operation, Gaussian filtering, NiBlack local binarization, adaptive thresh- old, dilation and erosion to perfectly show palmar vein image.
+  - Used ORB test method to extract the key points of two images that need to be matched.
+  - Utilized a mathematical method RANSAC for eliminating mismatched points.
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Study of Vortex Beams Based on LCOS-SLM** Changchun, China _(April 2016 - April 2017)_<br>
+**Objective:** To implement vortex beams based on LCOS-SLM, then propose a new method producing vector vortex beams based on LCOS-SLM.<br>
+**Supervisor:** Prof. Zhiying Liu<br>
+**Position::** **Leader** of a 3-person team work, but **the only one** sticked to the end.
+  - Adopted computer numerical simulation to compute the interference of object beam and reference beam.
+  - Got vortex beam and optimized index properties by Combining the algorithm principle of CGH and LCOS-SLM.
+  - Got Interferometric hologram.
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
+## 📌 ACADEMIC CONTESTS
 
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
 
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
-    
-## 🗞 Journalism Experience
 
-_This section only accounts for work done post-career change._
-<br><br>
 
-**Contributing Writer** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Dec 2020 - Present)_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Writing regular features focused on sexual health and identity
-  - Reporting on events that are relevant to the sex tech community
-  - **_Selected articles:_**
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Exploring Queerness By Switching Up My Vibrators](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
-    - [Future of Fingering: Lessons Learned from the Award-Winning Tentilex Project](https://futureofsex.net/sex-tech/future-of-fingering-lessons-learned-from-the-award-winning-tentilex-project/)
-<br><br>
 
-**Freelance Writing** _(Mar 2020 - Present)_ <br>
-Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), [Sex for Every Body](https://sexforeverybody.com/author/carolyn/), [FAWCO's Inspiring Women Magazine](https://workwithcarolyn.com/words/fawco-feature), and more.
-<br><br>
 
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
 
-## 📌 On The Side
 
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Building and continuously developing the course curriculum with a team of 4-8 other instructors
-  - Leading classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentoring students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
 
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Present)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selecting speakers and scheduling events
-  - Fostering an inclusive community and enforcing the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
+
+
+
+
+
+
+
 
 ## 🎤 Public Speaking
     
