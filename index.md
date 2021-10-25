@@ -104,7 +104,7 @@ Data Scientist at UPS based in Mahwah, New Jersey.
   - Established a embedded system included NVIDIA Jetson TK1, Arduino and APM.
 <br><br>
 
-**graduate Academic English Speech Contest** **The Second Prize** Changchun, China _(Noveber 2015 - January 2016)_<br>
+**Graduate Academic English Speech Contest** **The Second Prize** Changchun, China _(Noveber 2015 - January 2016)_<br>
 Made a speech in English, expressing personal opinions on image processing based on OpenCv, the understanding about SLAM system and its application in automatic driving fields.
 <br><br>
 
@@ -115,43 +115,31 @@ Made a speech in English, expressing personal opinions on image processing based
 <br><br>
 
 ## 🎤 Public Speaking
-   
-    
-    
-    
-### Recent Appearances
-
-- **Women TechMakers Vienna Conference** _(streamed on Aug 7, 2020)_
-<br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=-qZCRHwnnbM)<br>
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
-  
-## 🏆 Accomplishments
-
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
+**2021 UPS Summer Intership Presentation** **Intern representative** Mahwah, New Jersey _(August 2021)_<br>
+  - Selected by IT Vice President Ken Finnerty and 
+  - Made a presentation to UPS CIEO Juan Perez on behalf of all interns in the IT department.
+  - Talked about intership project address proximity and the business values behind.
 <br><br>
 
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
+**Interviewed by China Youth Daily**  Changchun, China _(June 2017)_<br>
+As the leader director of [Yullion Studio](www.yullioner.com) got interviewed by **China Youth Daily**, and the interview report got reprinted by **China Education Network**, **People’s Daily Online** and other mainstream media.
 <br><br>
 
-## 💬 Languages
-
-**English**: Native <br>
-**German**: A2.2
+**Photo-Electronic Design Contest Experience Sharing Meeting** **Keynote Speaker** Changchun, China _(Noveber 2015)_<br>
+As the keynote speaker, hosted and organized a sharing meeting with more than 100 people. At the meeting, we shared the technology and knowledge used by our team to win the photoelectric design competition, so as to help students broaden their horizons.
 <br><br>
+
+## 🏆 HONORS AND AWARDS
+- 2021.7 UPS Hackathon Final FAB FOUR **(4/24)**, presented to CEO&CIEO at UPS.
+- 2020.7 Third-prize in Stevens ECE Honor Summer Research Program, University Level
+- 2018.7 Excellent Graduation Design, University Level **(10/459)**
+- 2017-2018 Third-prize Scholarship, University Level
+- 2017 Certificate of **“National Level of Electronic Information Professionals”** by Chinese Institute of Electronics, Assistant Engineer Level
+- 2017 Second-prize in National Final of Intelligent Internet Competition, **National Level**
+- 2016-2017 Second-prize Scholarship, University Level
+- 2015 Second prize in Academic English Speech Contest, University Level
+- 2015 First prize in Photo-Electronic Design Contest, University Level
+- 2014 Third-prize Scholarship, University Level
 
 ## 👩🏼‍🎓 Education
 
