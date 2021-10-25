@@ -31,8 +31,44 @@ Data Scientist at UPS based in Mahwah, New Jersey.
 **Position:** Teaching assistant of EE575 (Control Systems)
 <br><br>
 
+## 🧑🏻‍🔬 Research Programs
+**2021 UPS Project** Mahwah, New Jersey _(June 2021 - Present)_<br>
+**Objective:** Address Proximity
+  - Profile UPS customers and find relationship between UPS Access Point and a large amount of Delivery Location Point
+  - It is a data mining and clustering exercise on UPS delivery data.
+  - The goal is to be able to recommend an alternative delivery location to UPS customers.
+  - Business values include transportation cost saving, improve delivery density and new business opportunities with local partners.
+<br><br>
+
+**2021 UPS Hackathon** Mahwah, New Jersey _(07/14/2021 - 07/16/2021)_<br>
+**Objective:** Aggressive driver behavior analysis
+  - Trained LSTM and Random Forest Model with public sensor data
+  - Completed training work on Google Cloud Platform
+  - The trained models were returned to Flask server then returned aggressive/non-aggressive events to HTML/CSS/JavaScript dashboard.
+  - Designed a web-based dashboard to display our analysis and further expansion
+<br><br>
 
 
+**2021 Master Thesis in Electrical Engineering** Hoboken, New Jersey _(February 2021 - May 2021)_<br>
+**Objective:** Contactless vital signs measurement and analysis via FMCW radar
+**Laboratory:** [The Bio-Electromagnetics Laboratory at Stevens Institute of Technology](https://www.tavassolian-lab.com/people)
+**Advisor:** Associate Prof. Negar Tavassolian [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xTUFHmIAAAAJ)
+**Reader:** Prof. Lei Wu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=BtMLsDIAAAAJ)
+  - Application of ultra width frequency radar to detect human vital signs.
+  - The wearable sensor shimmer3 GSR + and Apple Watch 3 are used as reference signals.
+  - The phase extraction region is determined by range FFT, and then the phase is extracted by vibration FFT. Through DC removal, Hanning window and two band-pass filters, human respiration signal and heartbeat signal are extracted respectively.
+  - After calculation and Pearson correlation coefficient (PCC) analysis, 96.4% correlation (Apple watch 3 as reference signal) and 95.5% and 83.8% correlation (shimmer3 GSR + as reference signal) were achieved respectively.
+<br><br>
+
+**2020 ECE Student Honor Summer Research** Hoboken, New Jersey _(May 2020 - July 2020)_<br>
+**Objective:** Implementing and accelerating Transformer and BERT by using CUDA C/C++
+**Laboratory:** [HPDA (High-Performance Data Analytics) Lab at Stevens Institute of Technology](https://web.stevens.edu/hpda/)
+**Supervisor:** Associate Prof. Hang Liu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EbTnLekAAAAJ)
+**Position::** **Leader** of a 3-person team work
+  - Most of the work was done on XSEDE cloud server which has a huge amount of GPU resources.
+  - Used Shared Memory & Memory Coalesced methods to optimize matrix multiplication and matrix transpose.
+  - The time to complete an epoch with shared memory optimization and non-optimization is 1.506s and 1.787s respectively.
+<br><br>
 
 
 
