@@ -18,10 +18,18 @@ Data Scientist at UPS based in Mahwah, New Jersey.
   - Major GPA: 3.4 Rank: 4/84
 <br><br>
 
+## 🧑🏻‍💻 Work Experience
+**United Parcel Service (UPS)** Mahwah, New Jersey _(August 2021 - Present)_<br>
+**Position:** Data Scientist Co-op in Advanced Analytics Group(AAG)
+<br><br>
 
+**United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - August 2021)_<br>
+**Position:** Data Scientist Intern in Advanced Analytics Group(AAG)
+<br><br>
 
-
-
+**Stevens Institute of Technology** Hoboken, New Jersey _(February 2021 - May 2021)_<br>
+**Position:** Teaching assistant of EE575 (Control Systems)
+<br><br>
 
 
 
