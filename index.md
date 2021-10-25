@@ -89,7 +89,7 @@ Data Scientist at UPS based in Mahwah, New Jersey.
 <br><br>
 
 ## 📌 ACADEMIC CONTESTS
-**The 2nd National “Intelligent Internet Competition”** **The Second Prize** Chongqing, China _(March 2017 - August 2017)_<br>
+**The 2nd National “Intelligent Internet Competition”**  **The Second Prize** Chongqing, China _(March 2017 - August 2017)_<br>
 **Objective:** To design an intelligent crib based on non-contact heart rate measurement, guaranteeing the baby is left in a safe unattended environment.<br>
 **Position:** **Leader** of a 3-person team work, but **the only one** sticked to the end.
   - Developed facial recognition and identification based on OpenCV.
@@ -104,18 +104,18 @@ Data Scientist at UPS based in Mahwah, New Jersey.
   - Established a embedded system included NVIDIA Jetson TK1, Arduino and APM.
 <br><br>
 
-**Graduate Academic English Speech Contest** **The Second Prize** Changchun, China _(Noveber 2015 - January 2016)_<br>
+**Graduate Academic English Speech Contest**  **The Second Prize** Changchun, China _(Noveber 2015 - January 2016)_<br>
 Made a speech in English, expressing personal opinions on image processing based on OpenCv, the understanding about SLAM system and its application in automatic driving fields.
 <br><br>
 
-**The 5th OptoElectronic Design Competition** **The First Prize** Changchun, China _(April 2015 - October 2015)_<br>
+**The 5th OptoElectronic Design Competition**  **The First Prize** Changchun, China _(April 2015 - October 2015)_<br>
   - Designed an optoelectronic intelligent toy car based on HSV color recognition.
   - Applied Ant colony algorithm to the car, which made it possible to pick up 10 ping-pong balls within 35 seconds on a 4-square-meter ground.
   - Applied dynamic PID control method
 <br><br>
 
 ## 🎤 Public Speaking
-**2021 UPS Summer Intership Presentation** **Intern representative** Mahwah, New Jersey _(August 2021)_<br>
+**2021 UPS Summer Intership Presentation**  **Intern representative** Mahwah, New Jersey _(August 2021)_<br>
   - Selected by IT Vice President Ken Finnerty and 
   - Made a presentation to UPS CIEO Juan Perez on behalf of all interns in the IT department.
   - Talked about intership project address proximity and the business values behind.
@@ -125,7 +125,7 @@ Made a speech in English, expressing personal opinions on image processing based
 As the leader director of [Yullion Studio](www.yullioner.com) got interviewed by **China Youth Daily**, and the interview report got reprinted by **China Education Network**, **People’s Daily Online** and other mainstream media.
 <br><br>
 
-**Photo-Electronic Design Contest Experience Sharing Meeting** **Keynote Speaker** Changchun, China _(Noveber 2015)_<br>
+**Photo-Electronic Design Contest Experience Sharing Meeting**  **Keynote Speaker** Changchun, China _(Noveber 2015)_<br>
 As the keynote speaker, hosted and organized a sharing meeting with more than 100 people. At the meeting, we shared the technology and knowledge used by our team to win the photoelectric design competition, so as to help students broaden their horizons.
 <br><br>
 
@@ -141,16 +141,12 @@ As the keynote speaker, hosted and organized a sharing meeting with more than 10
 - 2015 First prize in Photo-Electronic Design Contest, University Level
 - 2014 Third-prize Scholarship, University Level
 
-## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+## 💡 Skills
+- Computer Vision(OpenCV), Hyper Performance Computing(CUDA in NLP)
+- Windows & Linux Heterogeneous Programming(C++), Python, SQL, BigQuery, Matlab
+- Google Cloud Platform
+- Biomedical signal & image processing
+- Arduino, AVR, STC51
+- Quadrotor UAV, APM
+- Raspberry Pi, NVIDIA Jetson TK1
+- Hukoyo Single Line LIDAR, Velodyne 32 Lines LIDAR
