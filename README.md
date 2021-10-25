@@ -1,6 +1,6 @@
 ## Yunxiang Yang
 
-Data Scientist at UPS based in Mahwah, New Jersey.
+_Data Scientist at UPS based in Mahwah, New Jersey_.<br>
 
 [Email](mailto:winstonyang@gmail.com) / [Website](https://woryn.com/) / [LinkedIn](https://www.linkedin.com/in/yunxiang-yang-505324203/) / [GitHub](https://github.com/winstonyang117) 
 
