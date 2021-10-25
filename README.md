@@ -1,5 +1,5 @@
 ## Yunxiang Yang
-
+![1](https://user-images.githubusercontent.com/66694738/138643865-2e85aa8c-73eb-44bf-9fb9-f9c6dcaafdf8.png)
 _Data Scientist at UPS based in Mahwah, New Jersey_.<br>
 
 [Email](mailto:winstonyang@gmail.com) / [Website](https://woryn.com/) / [LinkedIn](https://www.linkedin.com/in/yunxiang-yang-505324203/) / [GitHub](https://github.com/winstonyang117) 
