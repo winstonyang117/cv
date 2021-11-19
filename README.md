@@ -53,9 +53,9 @@ _Data Scientist at UPS based in Mahwah, New Jersey_.<br>
 **Laboratory:** [The Bio-Electromagnetics Laboratory at Stevens Institute of Technology](https://www.tavassolian-lab.com/people)<br>
 **Advisor:** Associate Prof. Negar Tavassolian [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xTUFHmIAAAAJ)<br>
 **Reader:** Prof. Lei Wu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=BtMLsDIAAAAJ)
-  - Application of ultra width frequency radar to detect human vital signs.
-  - The wearable sensor shimmer3 GSR + and Apple Watch 3 are used as reference signals.
-  - The phase extraction region is determined by range FFT, and then the phase is extracted by vibration FFT. Through DC removal, Hanning window and two band-pass filters, human respiration signal and heartbeat signal are extracted respectively.
+  - Application of implementing Ultra-Wide Bandwidth Frequency-Modulated Continuous Wave (UWB-FMCW) radar to detect human vital signs.
+  - The wearable sensor shimmer3 GSR + and Apple Watch 3 were used as reference signals.
+  - The phase extraction region is determined by range FFT, and then the phase is extracted by vibration FFT. Through DC removal, Hanning window and two band-pass filters, human respiration signal and heartbeat signal were extracted respectively.
   - After calculation and Pearson correlation coefficient (PCC) analysis, 96.4% correlation (Apple watch 3 as reference signal) and 95.5% and 83.8% correlation (shimmer3 GSR + as reference signal) were achieved respectively.
 <br><br>
 
