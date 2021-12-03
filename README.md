@@ -1,4 +1,4 @@
-## Yunxiang Yang
+## Yunxiang Yang(杨云翔)
 _Data Scientist at UPS based in Mahwah, New Jersey_.<br>
 
 [Email](mailto:winstonyang@gmail.com) / [Website](https://winstonyang117.github.io/) / [LinkedIn](https://www.linkedin.com/in/yunxiang-yang-505324203/) / [GitHub](https://github.com/winstonyang117) 
