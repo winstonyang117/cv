@@ -115,7 +115,7 @@ Made a speech in English, expressing personal opinions on image processing based
 
 ## 🎤 Public Speaking
 **2021 UPS Summer Intership Presentation**  **Intern representative** Mahwah, New Jersey _(August 2021)_<br>
-  - Selected by IT Vice President Ken Finnerty and 
+  - Selected by IT Vice President Ken Finnerty and Senior Director Mallory Freeman.
   - Made a presentation to UPS CIEO Juan Perez on behalf of all interns in the IT department.
   - Talked about intership project address proximity and the business values behind.
 <br><br>
