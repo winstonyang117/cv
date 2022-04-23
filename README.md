@@ -19,10 +19,11 @@ _PhD student at the university of Georgia, Athens, GA_.<br>
   - B.Eng. in Engineering
   - Major GPA: 3.4 
 <br>
+
 ## 🧑🏻‍💻 Work Experience
 **United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - February 2022)_<br>
-**Position:** Data Scientist in Advanced Analytics Group(AAG)<br>
-<br>
+**Position:** Data Scientist in Advanced Analytics Group(AAG)
+<br><br>
 **Address Proximity:**
   - Built delivery frequency, CR Ratio, geographic coverage and other useful features to reveal important characteristics of Illinois Jefferson Hub and laid a good foundation for later research
   - Solved customer similarity, defined all the unit areas into 3 classes and employed KNN to determine the optimal parameters in ST-DBSCAN. Eventually reduced the amount of calculation by 75.9%
