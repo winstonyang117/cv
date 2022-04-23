@@ -42,7 +42,7 @@ _PhD student at the University of Georgia, Athens, GA_.<br>
 **Objective:** Contactless vital signs measurement and analysis via FMCW radar<br>
 **Laboratory:** [The Bio-Electromagnetics Laboratory at Stevens Institute of Technology](https://www.tavassolian-lab.com/people)<br>
 **Advisor:** Associate Prof. Negar Tavassolian [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xTUFHmIAAAAJ)<br>
-**Reader:** IEEE Fellow Prof. Lei Wu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=BtMLsDIAAAAJ)
+**Reader:** **IEEE Fellow Prof. Lei Wu** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=BtMLsDIAAAAJ)
   - Application of implementing Ultra-Wide Bandwidth Frequency-Modulated Continuous Wave (UWB-FMCW) radar to detect human vital signs.
   - The wearable sensor shimmer3 GSR + and Apple Watch 3 were used as reference signals.
   - The phase extraction region is determined by range FFT, and then the phase is extracted by vibration FFT. Through DC removal, Hanning window and two band-pass filters, human respiration signal and heartbeat signal were extracted respectively.
