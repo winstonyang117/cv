@@ -7,11 +7,13 @@ _PhD student at the university of Georgia, Athens, GA_.<br>
   - School of Electrical and Computer Engineering
   - Research Interests: Vital signs monitoring & estimate via contactless sensors/IoT applications/Cyber Security
 <br>
+
 **Stevens Institute of Technology** Hoboken, New Jersey _(January 2020 - May 2021)_<br>
   - School of Electrical and Computer Engineering
   - M.S. in Electric Engineering with AI concentration
   - **GPA: 3.934**
 <br>
+
 **Changchun University of Science and Technology** Changchun, China _(September 2014 - June 2018)_<br>
   - School of Photo-Electronic Engineering
   - B.Eng. in Engineering
@@ -33,6 +35,7 @@ _PhD student at the university of Georgia, Athens, GA_.<br>
   - Built and trained neural network model LSTM on Google Cloud Platform (GCP) with public time-series sensor data
   - Implemented Random Forest Model to solve class imbalance and improve the overall accuracy to 91%
   - Returned the trained model to Flask server then displayed with a web-based dashboard
+  
 **Stevens Institute of Technology** Hoboken, New Jersey _(February 2021)_<br>
 **Position:** Grader of EE575 Control Systems
   - Graded assignments to provide timely feedbacks for graduate students
