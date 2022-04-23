@@ -5,20 +5,15 @@ _PhD student at the university of Georgia, Athens, GA_.<br>
 ## 🎓 Eduacation
 **University of Georgia** Athens, Georgia _(May 2022 - Present)_<br>
   - School of Electrical and Computer Engineering
-  - Research Interests: Vital signs monitoring & estimate via contactless sensors/IoT applications/Cyber Security
-<br>
-
+  - Research Interests: Vital signs monitoring & estimate via contactless sensors/IoT applications/Cyber Security<br>
 **Stevens Institute of Technology** Hoboken, New Jersey _(January 2020 - May 2021)_<br>
   - School of Electrical and Computer Engineering
   - M.S. in Electric Engineering with AI concentration
-  - **GPA: 3.934**
-<br>
-
+  - **GPA: 3.934** <br>
 **Changchun University of Science and Technology** Changchun, China _(September 2014 - June 2018)_<br>
   - School of Photo-Electronic Engineering
   - B.Eng. in Engineering
-  - Major GPA: 3.4 
-<br>
+  - Major GPA: 3.4 <br>
 
 ## 🧑🏻‍💻 Work Experience
 **United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - February 2022)_<br>
