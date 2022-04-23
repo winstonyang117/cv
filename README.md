@@ -1,53 +1,46 @@
 ## Yunxiang Yang(杨云翔)
-_Data Scientist at UPS based in Mahwah, New Jersey_.<br>
-
+_PhD student at the university of Georgia, Athens, GA_.<br>
 [Email](mailto:winstonyang@gmail.com) / [Website](https://winstonyang117.github.io/) / [LinkedIn](https://www.linkedin.com/in/yunxiang-yang-505324203/) / [GitHub](https://github.com/winstonyang117) 
 
 ## 🎓 Eduacation
+**University of Georgia** Athens, Georgia _(May 2022 - Present)_<br>
+  - School of Electrical and Computer Engineering
+<br><br>
 **Stevens Institute of Technology** Hoboken, New Jersey _(January 2020 - May 2021)_<br>
   - School of Electrical and Computer Engineering
   - M.S. in Electric Engineering with AI concentration
   - **GPA: 3.934**
-  - Coursework: EE603 Signals and Systems, EE605 Prob&Stochastic Proc I, EE548 Digital Signal Processing, EE627 Data Acquisition/Proc I, EE575 Control Systems, CPE646 Pattern Recognition&classify- cation, CPE695 Applied Machine Learning, EE608 Applied Modeling&Optimization, EE900 Thesis in Electrical Engineering
-<br><br>
-
+<br>
 **Changchun University of Science and Technology** Changchun, China _(September 2014 - June 2018)_<br>
   - School of Photo-Electronic Engineering
   - B.Eng. in Engineering
-  - Major GPA: 3.4 Rank: 4/84
+  - Major GPA: 3.4 
+**Changchun University of Science and Technology** Changchun, China _(September 2014 - June 2018)_<br>
+  - School of Photo-Electronic Engineering
+  - B.Eng. in Engineering
+  - Major GPA: 3.4 
 <br><br>
 
 ## 🧑🏻‍💻 Work Experience
-**United Parcel Service (UPS)** Mahwah, New Jersey _(August 2021 - Present)_<br>
+**United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - February 2022)_<br>
 **Position:** Data Scientist in Advanced Analytics Group(AAG)
-<br><br>
-
-**United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - August 2021)_<br>
-**Position:** Data Scientist Intern in Advanced Analytics Group(AAG)
-<br><br>
-
-**Stevens Institute of Technology** Hoboken, New Jersey _(February 2021 - May 2021)_<br>
-**Position:** Teaching assistant of EE575 (Control Systems)
-<br><br>
+**Address Proximity**
+  - Built delivery frequency, CR Ratio, geographic coverage and other useful features to reveal important characteristics of Illinois Jefferson Hub and laid a good foundation for later research
+  - Solved customer similarity, defined all the unit areas into 3 classes and employed KNN to determine the optimal parameters in ST-DBSCAN. Eventually reduced the amount of calculation by 75.9%
+  - Customized ST-DBSCAN model into “frame” mode (iterate adjacent unit areas), fundamentally avoid memory crashed issue and significantly reduced the training time consumption by 46%
+**HR Peak Season Hiring Plan**
+  - Extracted and organized the HR hiring plan data for all the UPS facilities in the U.S. region
+  - Completed the data engineering part and made the data accessible on Google Cloud Storage
+  - Finished the payroll analysis and explored the employees’ characteristics of each facility
+**Aggressive Driver Behaviors Analysis**
+  - Built and trained neural network model LSTM on Google Cloud Platform (GCP) with public time-series sensor data
+  - Implemented Random Forest Model to solve class imbalance and improve the overall accuracy to 91%
+  - Returned the trained model to Flask server then displayed with a web-based dashboard
+**Stevens Institute of Technology** Hoboken, New Jersey _(February 2021)_<br>
+**Position:** Grader of EE575 Control Systems
+  - Graded assignments to provide timely feedbacks for graduate students
 
 ## 🧑🏻‍🔬 Research Programs
-**2021 UPS Project** Mahwah, New Jersey _(June 2021 - Present)_<br>
-**Objective:** Address Proximity
-  - Profile UPS customers and find relationship between UPS Access Point and a large amount of Delivery Location Point
-  - It is a data mining and clustering exercise on UPS delivery data.
-  - The goal is to be able to recommend an alternative delivery location to UPS customers.
-  - Business values include transportation cost saving, improve delivery density and new business opportunities with local partners.
-<br><br>
-
-**2021 UPS Hackathon** Mahwah, New Jersey _(07/14/2021 - 07/16/2021)_<br>
-**Objective:** Aggressive driver behavior analysis
-  - Trained LSTM and Random Forest Model with public sensor data
-  - Completed training work on Google Cloud Platform
-  - The trained models were returned to Flask server then returned aggressive/non-aggressive events to HTML/CSS/JavaScript dashboard.
-  - Designed a web-based dashboard to display our analysis and further expansion
-<br><br>
-
-
 **2021 Master Thesis in Electrical Engineering** Hoboken, New Jersey _(February 2021 - May 2021)_<br>
 **Objective:** Contactless vital signs measurement and analysis via FMCW radar<br>
 **Laboratory:** [The Bio-Electromagnetics Laboratory at Stevens Institute of Technology](https://www.tavassolian-lab.com/people)<br>
@@ -58,7 +51,6 @@ _Data Scientist at UPS based in Mahwah, New Jersey_.<br>
   - The phase extraction region is determined by range FFT, and then the phase is extracted by vibration FFT. Through DC removal, Hanning window and two band-pass filters, human respiration signal and heartbeat signal were extracted respectively.
   - After calculation and Pearson correlation coefficient (PCC) analysis, 96.4% correlation (Apple watch 3 as reference signal) and 95.5% and 83.8% correlation (shimmer3 GSR + as reference signal) were achieved respectively.
 <br><br>
-
 **2020 ECE Student Honor Summer Research** Hoboken, New Jersey _(May 2020 - July 2020)_<br>
 **Objective:** Implementing and accelerating Transformer and BERT by using CUDA C/C++<br>
 **Laboratory:** [HPDA (High-Performance Data Analytics) Lab at Stevens Institute of Technology](https://web.stevens.edu/hpda/)<br>
@@ -68,7 +60,6 @@ _Data Scientist at UPS based in Mahwah, New Jersey_.<br>
   - Used Shared Memory & Memory Coalesced methods to optimize matrix multiplication and matrix transpose.
   - The time to complete an epoch with shared memory optimization and non-optimization is 1.506s and 1.787s respectively.
 <br><br>
-
 **Undergraduate Innovation and Entrepreneurship Training Program** Changchun, China _(April 2016 - April 2017)_<br>
 **Objective:** To design a non-contact palmar vein recognition instrument based on image processing<br>
 **Supervisor:** Associate Prof. Shifeng Wang<br>
@@ -77,7 +68,6 @@ _Data Scientist at UPS based in Mahwah, New Jersey_.<br>
   - Used ORB test method to extract the key points of two images that need to be matched.
   - Utilized a mathematical method RANSAC for eliminating mismatched points.
 <br><br>
-
 **Study of Vortex Beams Based on LCOS-SLM** Changchun, China _(April 2016 - April 2017)_<br>
 **Objective:** To implement vortex beams based on LCOS-SLM, then propose a new method producing vector vortex beams based on LCOS-SLM.<br>
 **Supervisor:** Prof. Zhiying Liu<br>
@@ -86,7 +76,6 @@ _Data Scientist at UPS based in Mahwah, New Jersey_.<br>
   - Got vortex beam and optimized index properties by Combining the algorithm principle of CGH and LCOS-SLM.
   - Got Interferometric hologram.
 <br><br>
-
 ## 📌 ACADEMIC CONTESTS
 **The 2nd National “Intelligent Internet Competition”**  **The Second Prize** Chongqing, China _(March 2017 - August 2017)_<br>
 **Objective:** To design an intelligent crib based on non-contact heart rate measurement, guaranteeing the baby is left in a safe unattended environment.<br>
