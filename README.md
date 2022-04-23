@@ -22,16 +22,16 @@ _PhD student at the university of Georgia, Athens, GA_.<br>
 
 ## 🧑🏻‍💻 Work Experience
 **United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - February 2022)_<br>
-**Position:** Data Scientist in Advanced Analytics Group(AAG)
-**Address Proximity:**<br>
+**Position:** Data Scientist in Advanced Analytics Group(AAG)<br>
+**Address Proximity:**
   - Built delivery frequency, CR Ratio, geographic coverage and other useful features to reveal important characteristics of Illinois Jefferson Hub and laid a good foundation for later research
   - Solved customer similarity, defined all the unit areas into 3 classes and employed KNN to determine the optimal parameters in ST-DBSCAN. Eventually reduced the amount of calculation by 75.9%
-  - Customized ST-DBSCAN model into “frame” mode (iterate adjacent unit areas), fundamentally avoid memory crashed issue and significantly reduced the training time consumption by 46%
-**HR Peak Season Hiring Plan:**<br>
+  - Customized ST-DBSCAN model into “frame” mode (iterate adjacent unit areas), fundamentally avoid memory crashed issue and significantly reduced the training time consumption by 46%<br>
+**HR Peak Season Hiring Plan:**
   - Extracted and organized the HR hiring plan data for all the UPS facilities in the U.S. region
   - Completed the data engineering part and made the data accessible on Google Cloud Storage
-  - Finished the payroll analysis and explored the employees’ characteristics of each facility
-**Aggressive Driver Behaviors Analysis:**<br>
+  - Finished the payroll analysis and explored the employees’ characteristics of each facility<br>
+**Aggressive Driver Behaviors Analysis:**
   - Built and trained neural network model LSTM on Google Cloud Platform (GCP) with public time-series sensor data
   - Implemented Random Forest Model to solve class imbalance and improve the overall accuracy to 91%
   - Returned the trained model to Flask server then displayed with a web-based dashboard
