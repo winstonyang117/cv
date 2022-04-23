@@ -17,6 +17,7 @@ _PhD student at the university of Georgia, Athens, GA_.<br>
   - B.Eng. in Engineering
   - Major GPA: 3.4 
 <br>
+
 ## 🧑🏻‍💻 Work Experience
 **United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - February 2022)_<br>
 **Position:** Data Scientist in Advanced Analytics Group(AAG)
