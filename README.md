@@ -75,8 +75,8 @@ _PhD student at the University of Georgia, Athens, GA_.<br>
 
 ## 📌 ACADEMIC CONTESTS
 **The 2nd National “Intelligent Internet Competition”**  **The Second Prize** Chongqing, China _(Mar. 2017 - Aug. 2017)_<br>
-**Objective:** To design an intelligent crib based on non-contact heart rate measurement, guaranteeing the baby is left in a safe unattended environment.<br>
-**Position:** **Leader** of a 3-person team work, but **the only one** sticked to the end.
+**Objective:** Designed an intelligent non-contact heart rate measurement, guaranteeing the baby is left in a safe unattended environment.<br>
+**Position:** **The ONLY ONE out of 589 nationwide teams who sponsored by ourselves** 
   - Developed facial recognition and identification based on OpenCV.
   - Processed the images of forehead area and crawled the signals of heart rate.
   - Used STM32 to extract sensor signals, and controlled the relevant appliances by monitoring heart rate, such as adjusting fan speeds (fan is used to reduce the concentration of carbon dioxide).
