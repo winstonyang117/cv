@@ -5,7 +5,7 @@ _PhD student at the University of Georgia, Athens, GA_.<br>
 ## 🎓 Eduacation
 **University of Georgia** Athens, Georgia _(May 2022 - Present)_<br>
   - School of Electrical and Computer Engineering
-  - Research Interests: Vital signs monitoring & estimate via contactless sensors/IoT applications/Cyber Security
+  - Research Interests: Vital Signs Monitoring & Estimate via Contactless Sensors/IoT Applications/Cyber-Physical Systems & Security
 
 **Stevens Institute of Technology** Hoboken, New Jersey _(Jan. 2020 - May 2021)_<br>
   - School of Electrical and Computer Engineering
