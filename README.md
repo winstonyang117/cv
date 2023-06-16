@@ -9,13 +9,12 @@ _PhD student at the University of Georgia, Athens, GA_.<br>
 
 **Stevens Institute of Technology** Hoboken, New Jersey _(Jan. 2020 - May 2021)_<br>
   - School of Electrical and Computer Engineering
-  - M.S. in Electric Engineering with AI concentration
+  - M.S. in Electric Engineering with an AI concentration
   - **GPA: 3.934** 
 
 **Changchun University of Science and Technology** Changchun, China _(Sept. 2014 - June 2018)_<br>
   - School of Photo-Electronic Engineering
   - B.Eng. in Engineering
-  - Major GPA: 3.4 
 
 ## 🧑🏻‍💻 Work Experience
 **United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - Feb. 2022)_<br>
