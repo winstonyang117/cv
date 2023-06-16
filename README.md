@@ -2,7 +2,7 @@
 _PhD student at the University of Georgia, Athens, GA_.<br>
 [Email](mailto:winstonyang@gmail.com) / [Website](https://winstonyang117.github.io/) / [LinkedIn](https://www.linkedin.com/in/yunxiang-yang-505324203/) / [GitHub](https://github.com/winstonyang117) 
 
-## 🎓 Eduacation
+## 🎓 Education
 **University of Georgia** Athens, Georgia _(May 2022 - Present)_<br>
   - School of Electrical and Computer Engineering
   - Research Interests: Time-series traffic data/Deep Neural Netweoks/Civil Applications/Signal Processing
@@ -21,9 +21,9 @@ _PhD student at the University of Georgia, Athens, GA_.<br>
 **United Parcel Service (UPS)** Mahwah, New Jersey _(June 2021 - Feb. 2022)_<br>
 **Position:** Data Scientist in Advanced Analytics Group(AAG)<br>
   - **Address proximity:**
-  - Built delivery frequency, CR Ratio, geographic coverage and other useful features to reveal important characteristics of Illinois Jefferson Hub and laid a good foundation for later research
-  - Solved customer similarity, defined all the unit areas into 3 classes and employed KNN to determine the optimal parameters in ST-DBSCAN. Eventually reduced the amount of calculation by 75.9%
-  - Customized ST-DBSCAN model into “frame” mode (iterate adjacent unit areas), fundamentally avoid memory crashed issue and significantly reduced the training time consumption by 46%<br>
+  - Built delivery frequency, CR Ratio, geographic coverage, and other useful features to reveal important characteristics of Illinois Jefferson Hub and laid a good foundation for later research
+  - Solved customer similarity, defined all the unit areas into 3 classes, and employed KNN to determine the optimal parameters in ST-DBSCAN. Eventually reduced the amount of calculation by 75.9%
+  - Customized ST-DBSCAN model into “frame” mode (iterate adjacent unit areas), fundamentally avoiding memory crashed issue and significantly reducing the training time consumption by 46%<br>
   **HR Peak Season Hiring Plan:**
   - Extracted and organized the HR hiring plan data for all the UPS facilities in the U.S. region
   - Completed the data engineering part and made the data accessible on Google Cloud Storage
@@ -31,11 +31,11 @@ _PhD student at the University of Georgia, Athens, GA_.<br>
 **Aggressive Driver Behaviors Analysis:**
   - Built and trained neural network model LSTM on Google Cloud Platform (GCP) with public time-series sensor data
   - Implemented Random Forest Model to solve class imbalance and improve the overall accuracy to 91%
-  - Returned the trained model to Flask server then displayed with a web-based dashboard
+  - Returned the trained model to the Flask server then displayed with a web-based dashboard
   
 **Stevens Institute of Technology** Hoboken, New Jersey _(Feb. 2021)_<br>
 **Position:** Grader of EE575 Control Systems
-  - Graded assignments to provide timely feedbacks for graduate students
+  - Graded assignments to provide timely feedback for graduate students
 
 ## 🧑🏻‍🔬 Research Programs
 **2021 Master Thesis in Electrical Engineering** Hoboken, New Jersey _(Feb. 2021 - May 2021)_<br>
@@ -52,57 +52,57 @@ _PhD student at the University of Georgia, Athens, GA_.<br>
 **Objective:** Implementing and accelerating Transformer and BERT by using CUDA C/C++<br>
 **Laboratory:** [HPDA (High-Performance Data Analytics) Lab at Stevens Institute of Technology](https://web.stevens.edu/hpda/)<br>
 **Supervisor:** Associate Prof. Hang Liu [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EbTnLekAAAAJ)<br>
-**Position:** **Leader** of a 3-person team work
-  - Most of the work was done on XSEDE cloud server which has a huge amount of GPU resources.
+**Position:** **Leader** of a 3-person teamwork
+  - Most of the work was done on the XSEDE cloud server which has a huge amount of GPU resources.
   - Used Shared Memory & Memory Coalesced methods to optimize matrix multiplication and matrix transpose.
-  - The time to complete an epoch with shared memory optimization and non-optimization is 1.506s and 1.787s respectively.
+  - The time to complete an epoch with shared memory optimization and non-optimization are 1.506s and 1.787s respectively.
 
 **Undergraduate Innovation and Entrepreneurship Training Program** Changchun, China _(Apr. 2016 - Apr. 2017)_<br>
 **Objective:** To design a non-contact palmar vein recognition instrument based on image processing<br>
 **Supervisor:** Associate Prof. Shifeng Wang<br>
-**Position:** **Leader** of a 3-person team work
-  - Tried the methods of open-close operation, Gaussian filtering, NiBlack local binarization, adaptive thresh- old, dilation and erosion to perfectly show palmar vein image.
-  - Used ORB test method to extract the key points of two images that need to be matched.
+**Position:** **Leader** of a 3-person teamwork
+  - Tried the methods of open-close operation, Gaussian filtering, NiBlack local binarization, adaptive threshold, dilation, and erosion to perfectly show palmar vein image.
+  - Used the ORB test method to extract the key points of two images that need to be matched.
   - Utilized a mathematical method RANSAC for eliminating mismatched points.
 
 **Study of Vortex Beams Based on LCOS-SLM** Changchun, China _(Apr. 2016 - Apr. 2017)_<br>
 **Objective:** To implement vortex beams based on LCOS-SLM, then propose a new method producing vector vortex beams based on LCOS-SLM.<br>
 **Supervisor:** Prof. Zhiying Liu<br>
 **Position:** **Leader** of a 3-person team work, but **the only one** sticked to the end.
-  - Adopted computer numerical simulation to compute the interference of object beam and reference beam.
+  - Adopted computer numerical simulation to compute the interference of object beam and the reference beam.
   - Got vortex beam and optimized index properties by Combining the algorithm principle of CGH and LCOS-SLM.
-  - Got Interferometric hologram.
+  - Got an Interferometric hologram.
 
 ## 📌 ACADEMIC CONTESTS
 **The 2nd National “Intelligent Internet Competition”**  **The Second Prize** Chongqing, China _(Mar. 2017 - Aug. 2017)_<br>
 **Objective:** Designed an intelligent non-contact heart rate measurement, guaranteeing the baby is left in a safe unattended environment.<br>
-**Position:** **The ONLY ONE out of 589 nationwide teams who sponsored by ourselves** 
+**Position:** **The ONLY ONE out of 589 nationwide teams who are sponsored by ourselves** 
   - Developed facial recognition and identification based on OpenCV.
-  - Processed the images of forehead area and crawled the signals of heart rate.
+  - Processed the images of the forehead area and crawled the signals of heart rate.
   - Used STM32 to extract sensor signals, and controlled the relevant appliances by monitoring heart rate, such as adjusting fan speeds (fan is used to reduce the concentration of carbon dioxide).
 
 **2016 National College Students Optoelectronic Design Competition** Chengdu, China _(Mar. 2016 - July 2016)_<br>
 **Objective:** To design an autonomous airdrop UAV based on monocular vision.
   - Developed facial recognition and identification based on OpenCV.
   - Implemented the method of GPU parallel computation to process the images.
-  - Established a embedded system included NVIDIA Jetson TK1, Arduino and APM.
+  - Established an embedded system including NVIDIA Jetson TK1, Arduino, and APM.
 
 **Graduate Academic English Speech Contest**  **The Second Prize** Changchun, China _(Nov. 2015 - Jan. 2016)_<br>
-Made a speech in English, expressing personal opinions on image processing based on OpenCv, the understanding about SLAM system and its application in automatic driving fields.
+Made a speech in English, expressing personal opinions on image processing based on OpenCv, the understanding of the SLAM system, and its application in automatic driving fields.
 
 **The 5th OptoElectronic Design Competition**  **The First Prize** Changchun, China _(Apr. 2015 - Oct. 2015)_<br>
   - Designed an optoelectronic intelligent toy car based on HSV color recognition.
-  - Applied Ant colony algorithm to the car, which made it possible to pick up 10 ping-pong balls within 35 seconds on a 4-square-meter ground.
+  - Applied an Ant colony algorithm to the car, which made it possible to pick up 10 ping-pong balls within 35 seconds on a 4-square-meter ground.
   - Applied dynamic PID control method
 
 ## 🎤 Public Speaking
-**2021 UPS Summer Intership Presentation**  **Intern representative** Mahwah, New Jersey _(Aug. 2021)_<br>
+**2021 UPS Summer Internship Presentation**  **Intern representative** Mahwah, New Jersey _(Aug. 2021)_<br>
   - Selected by IT Vice President Ken Finnerty and Senior Director Mallory Freeman.
   - Made a presentation to UPS CIEO Juan Perez on behalf of all interns in the IT department.
-  - Talked about intership project address proximity and the business values behind.
+  - Talked about internship project address proximity and the business values behind it.
 
 **Interviewed by China Youth Daily**  Changchun, China _(June 2017)_<br>
-As the leader director of [Yullion Studio](www.yullioner.com) got interviewed by **China Youth Daily**, and the interview report got reprinted by **China Education Network**, **People’s Daily Online** and other mainstream media.
+As the lead director of [Yullion Studio](www.yullioner.com) got interviewed by **China Youth Daily**, and the interview report got reprinted by **China Education Network**, **People’s Daily Online**, and other mainstream media.
 
 **Photo-Electronic Design Contest Experience Sharing Meeting**  **Keynote Speaker** Changchun, China _(Nov. 2015)_<br>
 As the keynote speaker, hosted and organized a sharing meeting with more than 100 people. At the meeting, we shared the technology and knowledge used by our team to win the photoelectric design competition, so as to help students broaden their horizons.
